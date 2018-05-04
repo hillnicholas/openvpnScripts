@@ -15,3 +15,5 @@ Creates virtual private lan service to bind two LANs together. Requires the clie
 
 ### route-switching.sh
 This will increment the default tunneling device and auto-configure the routing. Requires multiple tunnels to be open.
+#### Required Software Packages
+(Ubuntu 16.04): openvpn
